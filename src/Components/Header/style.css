@@ -4,7 +4,6 @@ h1 {
 p {
   text-align: center;
 }
-
 @media (max-width: 575px) {
   .headerText {
     margin-top: 3rem;
